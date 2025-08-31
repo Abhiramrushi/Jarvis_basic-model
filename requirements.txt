@@ -1,0 +1,37 @@
+# Core AI and ML libraries
+openai>=1.0.0
+whisper>=1.0.0
+transformers>=4.30.0
+torch>=2.0.0
+langchain>=0.1.0
+langchain-openai>=0.1.0
+
+# Database libraries
+psycopg2-binary>=2.9.0
+redis>=4.5.0
+sqlalchemy>=2.0.0
+
+# Speech processing
+SpeechRecognition>=3.10.0
+google-cloud-texttospeech>=2.14.0
+pyttsx3>=2.90
+
+# Security and encryption
+cryptography>=41.0.0
+bcrypt>=4.0.0
+
+# Vector database
+pinecone-client>=2.2.0
+chromadb>=0.4.0
+
+# Utilities
+numpy>=1.24.0
+pandas>=2.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# API integrations
+google-auth>=2.17.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0
+twilio>=8.0.0
